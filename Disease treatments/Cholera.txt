@@ -1,0 +1,21 @@
+Medication:
+Antibiotics: To kill the bacteria and clear infection.
+1)Tetracycline 
+2)Doxycycline
+
+Therapy:
+Intravenous therapy:To prevent dehydration and maintain electrolyte balance.
+Oral rehydration therapy (ORS):Intake of water mixed with sugar and salt to treat dehydration.
+
+Self-care:
+Always talk to your provider before starting anything. 
+Increase the intake of fluids and maintain hygiene.
+
+Nutrition
+Foods to eat:
+Plenty of fluids
+Bland foods
+
+Foods to avoid:
+Spicy foods
+Raw or undercooked foods (vegetables, meat)
